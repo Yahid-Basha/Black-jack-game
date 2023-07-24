@@ -18,11 +18,7 @@ Welcome to the web version of the classic card game Blackjack! This project is a
 
 ## How to Run the Game:
 
-1. Clone the repository to your local machine or download the source code.
-
-2. Open the `index.html` file in your web browser.
-
-3. Click the "Start Game" button to begin playing Blackjack.
+1. visit to play : https://black-jack-yahid.netlify.app/
 
 ## Game Files:
 
