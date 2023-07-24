@@ -12,13 +12,33 @@ Welcome to the web version of the classic card game Blackjack! This project is a
 
 4. **Gameplay:** After the initial deal, you have the option to "Hit" or "Stand." Click the "New Card" button to get an additional card ("Hit") or decide to keep your current hand ("Stand"). The goal is to get as close to 21 as possible without exceeding it.
 
-5. **Winning and Losing:** The game will automatically check your hand. The hand closest to 21 without exceeding it wins. If you get a total of 21 with the first two cards (Blackjack), you win immediately. If you exceed 21, you "bust," and you lose.
+5. **Winning and Losing:** The game will automatically check your hand. The hand closest to 21 without exceeding it wins. If you get a total of 21 with the first two cards (Blackjack), you win immediately. If you exceed 21, you "bust," and you lose. If you win you will get 50 points else don't worry you won't loose anything yet!
 
 6. **Aces:** If your hand contains an Ace and the total value with it being counted as 11 does not cause you to bust, the Ace will be counted as 11. Otherwise, it will be counted as 1.
 
 ## How to Run the Game:
 
 1. visit to play : https://black-jack-yahid.netlify.app/
+
+## Sneak peek
+### you've Won
+<img width="567" alt="image" src="https://github.com/Yahid-Basha/Black-jack-game/assets/97111767/a337063b-5bde-4a54-8211-9b2f03de5df7">
+
+#### You will get 50 points per win!
+
+### Initial state:
+<img width="561" alt="image" src="https://github.com/Yahid-Basha/Black-jack-game/assets/97111767/4a0df257-682c-46e1-8d44-432e7af899ae">
+
+### click start game and you are in the game
+<img width="563" alt="image" src="https://github.com/Yahid-Basha/Black-jack-game/assets/97111767/0ff6f950-5b3f-479a-aecf-58ec5d4adcee">
+
+### Want a new card click the button
+<img width="559" alt="image" src="https://github.com/Yahid-Basha/Black-jack-game/assets/97111767/e7a6e36a-40d1-4409-adad-464980e90910">
+
+### Not sufficent? click again!!! 
+<img width="573" alt="image" src="https://github.com/Yahid-Basha/Black-jack-game/assets/97111767/2fe7bbfa-0233-4b61-88e6-bfdd32b5c031">
+
+#### Sorry you are out of the game. No more cards for you! Better Luck next time.
 
 ## Game Files:
 
