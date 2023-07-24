@@ -4,6 +4,15 @@ body{
     background-image: url(https://us.123rf.com/450wm/liorpt/liorpt1410/liorpt141000075/32281281-green-casino-table-texture.jpg) ;
     background-size: cover;
 }
+.container{
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 100px;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px rgba(55, 36, 3, 0.5);
+}
 h1{
     color: gold;
     font-size: 4rem;
